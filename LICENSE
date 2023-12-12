@@ -1,7 +1,9 @@
 -------------------------------------------------------------------------------
 
-This script is licensed under the MIT license, because I don't really care
-but it's nice to know where you stand on things.
+Items in the "3rdparty" directory are licensed as per the descriptions there.
+
+Everything outside that is licensed under the MIT license, because I don't
+really care but it's nice to know where you stand on things.
 
 -------------------------------------------------------------------------------
 
@@ -25,3 +27,4 @@ IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM,
 DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR
 OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE
 OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
