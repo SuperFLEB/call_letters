@@ -1,0 +1,8 @@
+This is a quick Python script I wrote to get all the Kxxx and Wxxx US radio and TV station call signs, and list which
+were in use (found_call_letters.txt) and not in use (not_found_call_letters.txt). Of course, this script is very much
+"wingin' it", so results aren't guaranteed, and you should do your diligence before relying on anything
+you get from this.
+
+
+Delete the two .txt files and run call_letters.py to pull them again fresh, or use the pre-compiled lists that were
+generated... whenever Git says they were generated.
