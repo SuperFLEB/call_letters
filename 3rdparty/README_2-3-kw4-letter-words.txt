@@ -3,7 +3,7 @@ en_US-large Hunspell Dictionary.
 
 https://sourceforge.net/projects/wordlist/
 
-It's README file, including license information, follows:
+Its README file, including license information, follows:
 
 --------------------------------------------------------------------------
 
